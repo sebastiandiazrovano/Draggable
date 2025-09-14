@@ -8,7 +8,7 @@ A draggable inline menu with a scattered thumbnail preview of an image grid.
 
 [Demo](http://tympanus.net/Development/DraggableMenu/)
 
-[Demo2](https://github.com/sebastiandiazrovano/Draggable/)
+[Demo2](https://github.com/sebastiandiazrovano/Draggable/index.html)
 
 ## Credits
 
